@@ -1,0 +1,9 @@
+Package: com.josh.firsttweak
+Name: FirstTweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: josh
+Author: josh
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
